@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Link](https://github.com/NatnaelSisay/four-card-feature-section-master)
+- Live Site URL: [Netlify Link](https://resilient-gecko-222a5e.netlify.app/)
 
 ## My process
 
